@@ -1,5 +1,5 @@
 # HR Employee Attrition Prediction (Personal Project)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://google.com](https://colab.research.google.com/github/dacamas/HR-Employee-Attrition-Prediction/blob/main/HR_Attrition_Personal_Project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://google.com](https://colab.research.google.com/github/dacamas/HR-Employee-Attrition-Prediction/blob/main/HR_Attrition_Personal_Project.ipynb))
 
 A PyTorch neural network to predict employee attrition using the IBM HR Analytics dataset.
 
